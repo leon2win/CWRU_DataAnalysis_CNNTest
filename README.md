@@ -1,4 +1,4 @@
-It only uploads part of the data files. For getting all dataset of the CWRU, directly visit link to download it via https://engineering.case.edu/bearingdatacenter/download-data-file
+In this project, it only uploads part of the data files. For getting all dataset of the CWRU, directly visit link to download via https://engineering.case.edu/bearingdatacenter/download-data-file
 ```markdown
 # 基于 CWRU 轴承数据集的跨工况故障诊断（0HP → 1HP）
 
